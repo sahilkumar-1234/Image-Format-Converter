@@ -35,7 +35,7 @@ It is ideal for:
 
 📁 **Repository**: [https://github.com/sahilkumar-1234/Image-Format-Converter](https://github.com/sahilkumar-1234/Image-Format-Converter)
 ---
-🌐 ** Live Demo ** : [https://image-format-converter.streamlit.app/](https://image-format-converter.streamlit.app/)
+🌐 **Live Demo** : [https://image-format-converter.streamlit.app/](https://image-format-converter.streamlit.app/)
 
 ---
 
